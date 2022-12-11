@@ -10,9 +10,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
-- 🌱 I’m currently learning Full-Stack Web Development.
-- 💬 Ask me about Programming languages like C++, Java.
-- 📫 How to reach me: arorachirag607@gmail.com
+- 🌱 I’m currently learning Full-Stack Web Development.<br>
+- 💬 Ask me about Programming languages like C++, Java.<br>
+- 📫 How to reach me: arorachirag607@gmail.com<br>
 <h1>Languages</h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
