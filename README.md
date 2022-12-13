@@ -29,7 +29,8 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chirag0008&theme=gruvbox_duo)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chirag0008&theme=gruvbox_duo)](https://git.io/streak-stats)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag0008)](https://github.com/chirag0008/github-readme-stats)
 
 
 
